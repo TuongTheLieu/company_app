@@ -1,0 +1,18 @@
+# Bỏ qua thư mục build
+/target/
+/build/
+
+# Bỏ qua tệp cấu hình nhạy cảm
+application.yaml
+application.properties
+.env
+
+# Bỏ qua các tệp log
+*.log
+
+# Bỏ qua các thư mục IDE
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
